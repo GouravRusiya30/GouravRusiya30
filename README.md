@@ -1,12 +1,15 @@
-### Hi there 👋
-
 <!--
 **GouravRusiya30/GouravRusiya30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. --!>
 
-# 𝗛𝗲𝗹𝗹𝗼! 𝗜'𝗺 Gourav R ☺️
+# 𝗛𝗲𝗹𝗹𝗼! Myself Gourav R
+
+<br>
+<br>
 
 I ❤️ FullStack Web Development!
 
+<br>
+<br>
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
 <table>
@@ -32,18 +35,9 @@ I ❤️ FullStack Web Development!
       </tbody>
 </table>
 
-   
-   
-   
-   <br>
-    <br>
-    
-    
-   
-   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=GouravRusiya30&show_icons=true&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=GouravRusiya30&show_icons=true&hide_border=true)
 
 <br>
-
 
 
 ## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
