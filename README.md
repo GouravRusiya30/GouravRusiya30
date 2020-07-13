@@ -1,11 +1,9 @@
 ### Hi there 👋
 
 <!--
-**GouravRusiya30/GouravRusiya30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**GouravRusiya30/GouravRusiya30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. --!>
 
-Here are some ideas to get you started:
-
-# 𝗛𝗲𝗹𝗹𝗼! 𝗜'𝗺  Gourav R☺️
+# 𝗛𝗲𝗹𝗹𝗼! 𝗜'𝗺 Gourav R ☺️
 
 I ❤️ FullStack Web Development!
 
@@ -45,19 +43,6 @@ I ❤️ FullStack Web Development!
    ![GitHub stats](https://github-readme-stats.vercel.app/api?username=GouravRusiya30&show_icons=true&hide_border=true)
 
 <br>
-
-  <a href="https://www.linkedin.com/in/pingunnatimishra">
-    <img align="left" alt="Gourav R | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
-  </a>
-  <a href="https://twitter.com/ping_unnati?lang=en">
-    <img align="left" alt="Gourav R | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
-  </a>
-  <a href="https://www.instagram.com/thecssgirl/">
-    <img align="left" alt="Gourav R | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
-  </a>
-  <a href="mailto:unnaticse2019@gmail.com">
-    <img align="left" alt="Gourav R | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
-  </a>
 
 
 
