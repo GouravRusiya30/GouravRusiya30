@@ -7,6 +7,31 @@ I ❤️ FullStack Web Development!
 
 <br>
 
+## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
+
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span>JAVA</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>WEBSERVICES</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>IBM CLOUD</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><b></b></span><br><br><br>
+        <img height="64px" src="https://i.ibb.co/6rD3Vm5/greensock.png" alt="greensock" border="0">
+      </td>
+    </tr>
+      </tbody>
+</table>
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=GouravRusiya30&show_icons=true&hide_border=true)
 
 <br>
