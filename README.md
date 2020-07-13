@@ -1,9 +1,9 @@
 # 𝗛𝗲𝗹𝗹𝗼 there! <img height="64px" src="https://github.com/GouravRusiya30/GouravRusiya30/blob/master/Assets/Hi.gif">
-# I'm Gourav
+## I'm Gourav
 
 <br>
 
-I ❤️ FullStack Web Development!
+I ❤️ FullStack Web Development! <img height="64px" src="https://github.com/GouravRusiya30/GouravRusiya30/blob/master/Assets/Developer.gif">
 
 <br>
 
@@ -14,19 +14,19 @@ I ❤️ FullStack Web Development!
     <tr valign="top">
       <td width="25%" align="center">
         <span>JAVA</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
+        <img height="90px" src="https://miro.medium.com/max/1400/1*yvvU_edMLeHHb7wDqQ9IVg.png">
       </td>
       <td width="25%" align="center">
         <span>WEBSERVICES</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
+        <img height="120px" src="https://codenuclear.com/wp-content/uploads/2018/03/Webservice_va.jpg">
       </td>
       <td width="25%" align="center">
-        <span>IBM CLOUD</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+        <span>CLOUD Technology</span><br><br><br>
+        <img height="90px" src="http://gainam.com/images/cloud.png">
       </td>
       <td width="25%" align="center">
-        <span><b></b></span><br><br><br>
-        <img height="64px" src="https://i.ibb.co/6rD3Vm5/greensock.png" alt="greensock" border="0">
+        <span><b></b>Node.js</span><br><br><br>
+        <img height="90px" src="https://miro.medium.com/max/1400/1*fsseXIPGEhwmg6kfgXyIjA.jpeg" alt="greensock" border="0">
       </td>
     </tr>
       </tbody>
