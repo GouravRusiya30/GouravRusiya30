@@ -1,8 +1,6 @@
 # 𝗛𝗲𝗹𝗹𝗼 there! <img height="64px" src="https://github.com/GouravRusiya30/GouravRusiya30/blob/master/Assets/Hi.gif">
 ## I'm Gourav and I ❤️ FullStack Web Development! <img height="64px" src="https://github.com/GouravRusiya30/GouravRusiya30/blob/master/Assets/Developer.gif">
 
-<br>
-
 ## 𝗠y 𝗧𝗲𝗰h 𝗦𝘁𝗮𝗰𝗸
 
 <table>
