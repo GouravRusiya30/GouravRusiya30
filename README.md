@@ -1,7 +1,6 @@
 # 𝗛𝗲𝗹𝗹𝗼! I'm Gourav Rusiya
 
 <br>
-<br>
 
 I ❤️ FullStack Web Development!
 
@@ -11,8 +10,6 @@ I ❤️ FullStack Web Development!
 
 <br>
 
-
 ## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=GouravRusiya30.GouravRusiya30)
-
