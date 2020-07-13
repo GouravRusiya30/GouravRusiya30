@@ -1,7 +1,4 @@
-<!--
-**GouravRusiya30/GouravRusiya30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. --!>
-
-# 𝗛𝗲𝗹𝗹𝗼! Myself Gourav R
+# 𝗛𝗲𝗹𝗹𝗼! I'm Gourav Rusiya
 
 <br>
 <br>
@@ -9,7 +6,7 @@
 I ❤️ FullStack Web Development!
 
 <br>
-<br>
+
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
 <table>
