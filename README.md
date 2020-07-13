@@ -3,25 +3,25 @@
 
 <br>
 
-## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
+## 𝗠y 𝗧𝗲𝗰h 𝗦𝘁𝗮𝗰𝗸
 
 <table>
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>JAVA</span><br><br><br>
+        <span><h3>JAVA</h3></span><br><br><br>
         <img height="90px" src="https://miro.medium.com/max/1400/1*yvvU_edMLeHHb7wDqQ9IVg.png">
       </td>
       <td width="25%" align="center">
-        <span>WEBSERVICES</span><br><br><br>
+        <span><h3>WEBSERVICES</h3></span><br><br><br>
         <img height="120px" src="https://codenuclear.com/wp-content/uploads/2018/03/Webservice_va.jpg">
       </td>
       <td width="25%" align="center">
-        <span>CLOUD Technology</span><br><br><br>
+        <span><h3>CLOUD Technology</h3></span><br><br><br>
         <img height="90px" src="http://gainam.com/images/cloud.png">
       </td>
       <td width="25%" align="center">
-        <span><b></b>Node.js</span><br><br><br>
+        <span><b></b><h3>Node.js</h3></span><br><br><br>
         <img height="90px" src="https://miro.medium.com/max/1400/1*fsseXIPGEhwmg6kfgXyIjA.jpeg" alt="greensock" border="0">
       </td>
     </tr>
