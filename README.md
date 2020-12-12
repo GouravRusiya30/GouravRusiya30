@@ -26,7 +26,7 @@
       </tbody>
 </table>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=GouravRusiya30&show_icons=true&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=GouravRusiya30&theme=shades-of-purple&show_icons=true)
 
 <br>
 
