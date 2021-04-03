@@ -7,9 +7,10 @@
 </a>
 
 
-## I ❤️ FullStack Development! <img height="64px" src="https://github.com/GouravRusiya30/GouravRusiya30/blob/master/Assets/Developer.gif">
+## Software Developer @IBM Software Labs | Youtuber | FullStack Developer! <img height="64px" src="https://github.com/GouravRusiya30/GouravRusiya30/blob/master/Assets/Developer.gif">
 
 - 🌱 I’m currently learning everything 🤣
+- ❤️ to help fellow coders
 - 👯 I’m looking to collaborate with other content creators
 - ⚡ Fun fact: I love to play cricket 🏏
 
