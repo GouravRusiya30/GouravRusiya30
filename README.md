@@ -21,19 +21,19 @@
     <tr valign="top">
       <td width="25%" align="center">
         <span><h3>JAVA</h3></span><br><br><br>
-        <img height="50px" src="https://miro.medium.com/max/1400/1*yvvU_edMLeHHb7wDqQ9IVg.png">
+        <img height="90px" src="https://miro.medium.com/max/1400/1*yvvU_edMLeHHb7wDqQ9IVg.png">
       </td>
       <td width="25%" align="center">
         <span><h3>WEBSERVICES</h3></span><br><br><br>
-        <img height="50px" src="https://codenuclear.com/wp-content/uploads/2018/03/Webservice_va.jpg">
+        <img height="90px" src="https://codenuclear.com/wp-content/uploads/2018/03/Webservice_va.jpg">
       </td>
       <td width="25%" align="center">
         <span><h3>CLOUD Technology</h3></span><br><br><br>
-        <img height="50px" src="http://gainam.com/images/cloud.png">
+        <img height="90px" src="http://gainam.com/images/cloud.png">
       </td>
       <td width="25%" align="center">
         <span><b></b><h3>Node.js</h3></span><br><br><br>
-        <img height="50px" src="https://miro.medium.com/max/1400/1*fsseXIPGEhwmg6kfgXyIjA.jpeg" alt="greensock" border="0">
+        <img height="90px" src="https://miro.medium.com/max/1400/1*fsseXIPGEhwmg6kfgXyIjA.jpeg" alt="greensock" border="0">
       </td>
     </tr>
       </tbody>
