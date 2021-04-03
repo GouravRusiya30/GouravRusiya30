@@ -1,10 +1,9 @@
 ### Hi there, I'm Gourav R aka [codedecker](https://www.youtube.com/c/codedecks) 👋
 
-<a href="https://www.youtube.com/channel/[YOUR CHANNEL ID]">
- <img alt="youtube subscribers" src="https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?color=red&id=UCtJg4eV7SszBJx7BsuS_zhA&key=AIzaSyCkaZEr9tkpxllZbp7t4DwjUoHamsrYX24"/>
-
- <img alt="youtube viewers" src="https://github-readme-youtube-stats.herokuapp.com/views/index.php?id=UCtJg4eV7SszBJx7BsuS_zhA&key=AIzaSyCkaZEr9tkpxllZbp7t4DwjUoHamsrYX24&logo=plex"/>
-</a>
+   <a href="https://www.youtube.com/channel/c/codedecks?sub_confirmation=1">
+    <img alt="youtube subscribers" src="https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?id=UCtJg4eV7SszBJx7BsuS_zhA&key=AIzaSyCkaZEr9tkpxllZbp7t4DwjUoHamsrYX24&label=Subscribers&style=for-the-badge&color=red&labelColor=ce4630"/></a>
+  <a href="https://www.youtube.com/channel/c/codedecks">
+   <img alt="youtube viewers" src="https://github-readme-youtube-stats.herokuapp.com/views/index.php?id=UCtJg4eV7SszBJx7BsuS_zhA&key=AIzaSyCkaZEr9tkpxllZbp7t4DwjUoHamsrYX24&label=View+Count&style=for-the-badge&color=blue&labelColor=0b689d"/></a> 
 
 
 ## Software Developer @IBM Software Labs | Youtuber | FullStack Developer! <img height="64px" src="https://github.com/GouravRusiya30/GouravRusiya30/blob/master/Assets/Developer.gif">
