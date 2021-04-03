@@ -1,13 +1,11 @@
-### Hi there, I'm Gourav R 👋
+### Hi there, I'm Gourav R aka [codedecker](https://www.youtube.com/c/codedecks) 👋
 
-<p align="center">
-<a  href="https://www.facebook.com/groups/codedecks">
-       <img align="left" height=85 src="https://static1.squarespace.com/static/5994a0f17131a5643f407c37/t/5bf9070c0ebbe88c3392b17c/1543047009836/facebook_button.png">
-   </a>
-   <a href="https://www.youtube.com/c/codedecks?sub_confirmation=1">
-       <img align="right" height=85 src="https://www.freepngimg.com/thumb/subscribe/4-2-subscribe-png-2.png">
-   </a>
- <p/>
+<a href="https://www.youtube.com/channel/[YOUR CHANNEL ID]">
+ <img alt="youtube subscribers" src="https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?color=red&id=UCtJg4eV7SszBJx7BsuS_zhA&key=AIzaSyCkaZEr9tkpxllZbp7t4DwjUoHamsrYX24"/>
+       </br>
+ <img alt="youtube viewers" src="https://github-readme-youtube-stats.herokuapp.com/views/index.php?id=UCtJg4eV7SszBJx7BsuS_zhA&key=AIzaSyCkaZEr9tkpxllZbp7t4DwjUoHamsrYX24&logo=plex"/>
+</a>
+
 
 ## I ❤️ FullStack Development! <img height="64px" src="https://github.com/GouravRusiya30/GouravRusiya30/blob/master/Assets/Developer.gif">
 
