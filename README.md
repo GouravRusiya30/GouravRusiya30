@@ -1,4 +1,6 @@
 ### Hi there, I'm Gourav R aka [codedecker](https://www.youtube.com/c/codedecks) 👋
+
+<img align="center" alt="G R | Twitter" width="126px" src="https://github.com/GouravRusiya30/GouravRusiya30/blob/master/Assets/Twitter.svg" />
    </br>
    <a href="https://www.youtube.com/channel/c/codedecks?sub_confirmation=1">
     <img alt="youtube subscribers" src="https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?id=UCtJg4eV7SszBJx7BsuS_zhA&key=AIzaSyCkaZEr9tkpxllZbp7t4DwjUoHamsrYX24&label=Subscribers&style=for-the-badge&color=red&labelColor=ce4630"/></a>
