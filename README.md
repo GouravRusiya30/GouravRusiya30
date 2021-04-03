@@ -2,7 +2,7 @@
 
 <a href="https://www.youtube.com/channel/[YOUR CHANNEL ID]">
  <img alt="youtube subscribers" src="https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?color=red&id=UCtJg4eV7SszBJx7BsuS_zhA&key=AIzaSyCkaZEr9tkpxllZbp7t4DwjUoHamsrYX24"/>
-       </br>
+
  <img alt="youtube viewers" src="https://github-readme-youtube-stats.herokuapp.com/views/index.php?id=UCtJg4eV7SszBJx7BsuS_zhA&key=AIzaSyCkaZEr9tkpxllZbp7t4DwjUoHamsrYX24&logo=plex"/>
 </a>
 
