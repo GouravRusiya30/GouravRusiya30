@@ -25,7 +25,7 @@
       </td>
       <td width="25%" align="center">
         <span><h3>WEBSERVICES</h3></span><br><br><br>
-        <img height="90px" src="https://codenuclear.com/wp-content/uploads/2018/03/Webservice_va.jpg">
+        <img height="90px" src="https://github.com/GouravRusiya30/GouravRusiya30/blob/master/Assets/webservices.jpeg">
       </td>
       <td width="25%" align="center">
         <span><h3>CLOUD Technology</h3></span><br><br><br>
