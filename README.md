@@ -7,7 +7,7 @@
   <a href="https://www.youtube.com/c/codedecks">
    <img alt="youtube viewers" src="https://github-readme-youtube-stats.herokuapp.com/views/index.php?id=UCtJg4eV7SszBJx7BsuS_zhA&key=AIzaSyCkaZEr9tkpxllZbp7t4DwjUoHamsrYX24&label=View+Count&style=for-the-badge&color=blue&labelColor=0b689d"/></a>
 
-## Software Developer @IBM Software Labs | Youtuber | FullStack Developer! <img height="64px" src="https://github.com/GouravRusiya30/GouravRusiya30/blob/master/Assets/Developer.gif">
+## SDE II @Amazon | Youtuber | FullStack Developer! <img height="64px" src="https://github.com/GouravRusiya30/GouravRusiya30/blob/master/Assets/Developer.gif">
 
 - 🌱 I’m currently learning everything 🤣
 - ❤️ to help fellow coders
