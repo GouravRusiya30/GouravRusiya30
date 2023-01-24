@@ -1,5 +1,9 @@
 ### Hi there, I'm Gourav R aka [codedecker](https://www.youtube.com/c/codedecks) 👋
 
+[![Linkedin: Gourav R](https://img.shields.io/badge/-GouravR-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/grusiya/)](https://www.linkedin.com/in/grusiya/)
+![GitHub followers](https://img.shields.io/github/followers/GouravRusiya30?label=Follow&style=social)
+<img alt = "profile views" src="https://komarev.com/ghpvc/?username=GouravRusiya30&color=brightgreen">
+
 <img align="center" alt="G R | Twitter" width="1026px" src="https://github.com/GouravRusiya30/GouravRusiya30/blob/master/Assets/codedecks.jpeg" />
    </br>
    <a href="https://www.youtube.com/c/codedecks?sub_confirmation=1">
