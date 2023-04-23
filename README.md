@@ -18,6 +18,22 @@
 - 👯 I’m looking to collaborate with other content creators
 - ⚡ Fun fact: I love to play cricket 🏏
 
+### Connect with me:
+
+<a href="https://www.linkedin.com/in/gourav-rusiya-52973b73/">
+    <img align="left" alt="G R | Linkedin" width="24px" src="https://github.com/GouravRusiya30/GouravRusiya30/blob/master/Assets/Linkedin.svg" />
+  </a>
+  <a href="https://twitter.com/GRusiya">
+    <img align="left" alt="G R | Twitter" width="26px" src="https://github.com/GouravRusiya30/GouravRusiya30/blob/master/Assets/Twitter.svg" />
+  </a>
+  <a href="https://www.instagram.com/codedecks_in/">
+    <img align="left" alt="G R | Instagram" width="24px" src="https://github.com/GouravRusiya30/GouravRusiya30/blob/master/Assets/Instagram.svg" />
+  </a>
+  <a href="mailto:gouravrusiya.lnct@gmail.com">
+    <img align="left" alt="G R | Gmail" width="26px" src="https://github.com/GouravRusiya30/GouravRusiya30/blob/master/Assets/Gmail.svg" />
+  </a>
+<br />
+
 ## 𝗠y 𝗧𝗲𝗰h 𝗦𝘁𝗮𝗰𝗸
 
 <table>
@@ -48,6 +64,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Big Omega Extension](https://youtu.be/IhRoe7p1V-I)
 - [Swiggy Interview Experience 🤩 | Placements Talk Ep2](https://youtu.be/kPQlAqFk2uA)
 - [Does CGPA Matters 🤑 | Placements Talk Ep1 🔥](https://youtu.be/6PiBHQLKUP8)
 - [LeetCode Solutions | Coding Interview Preparation](https://www.youtube.com/playlist?list=PLlUdLC2oSxz2Y1g6V8oRCzauOvbnKl2Ee)
@@ -57,26 +74,4 @@
 ➡️ [more videos...](https://www.youtube.com/c/codedecks)
 
 ---
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-  
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=GouravRusiya30&theme=shades-of-purple&show_icons=true)
-
-</details>
-
-### Connect with me:
-
-<a href="https://www.linkedin.com/in/gourav-rusiya-52973b73/">
-    <img align="left" alt="G R | Linkedin" width="24px" src="https://github.com/GouravRusiya30/GouravRusiya30/blob/master/Assets/Linkedin.svg" />
-  </a>
-  <a href="https://twitter.com/GRusiya">
-    <img align="left" alt="G R | Twitter" width="26px" src="https://github.com/GouravRusiya30/GouravRusiya30/blob/master/Assets/Twitter.svg" />
-  </a>
-  <a href="https://www.instagram.com/rusiyagr/">
-    <img align="left" alt="G R | Instagram" width="24px" src="https://github.com/GouravRusiya30/GouravRusiya30/blob/master/Assets/Instagram.svg" />
-  </a>
-  <a href="mailto:gouravrusiya.lnct@gmail.com">
-    <img align="left" alt="G R | Gmail" width="26px" src="https://github.com/GouravRusiya30/GouravRusiya30/blob/master/Assets/Gmail.svg" />
-  </a>
-<br />
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=GouravRusiya30&theme=shades-of-purple&show_icons=true)
