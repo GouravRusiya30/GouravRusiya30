@@ -1,12 +1,8 @@
-Hi, I’m Gourav R 👋
+## Hi, I'm Gourav R 👋
 
-Software Engineer • Distributed Systems • Backend Engineering • AI
+**Software Engineer · Distributed Systems · Backend Engineering · AI**
 
-I’m a software engineer passionate about building scalable backend systems, distributed architectures, and developer-focused products.
-
-I enjoy solving complex engineering problems across system design, microservices, event-driven architectures, data platforms, and AI-enabled systems — from architecture and implementation to production.
-
-I’m also the creator behind CodeDecks, where I share programming, algorithms, interview preparation, and software engineering content.
+I build scalable backend systems and distributed architectures — from design to production. Creator of [CodeDecks](https://www.youtube.com/c/codedecks), where I share programming, algorithms, and interview prep content.
 
 <p>
   <a href="https://www.linkedin.com/in/grusiya/">
@@ -27,39 +23,17 @@ I’m also the creator behind CodeDecks, where I share programming, algorithms, 
 
 ⸻
 
-🧑‍💻 About Me
+### 🧑‍💻 About Me
 
-* 🏗️ I enjoy designing high-scale and highly available distributed systems
-* ☕ Strong interest in Java, Spring Boot and backend engineering
-* 📨 Interested in Kafka, event-driven architectures and asynchronous processing
-* ☁️ Experience building cloud-native and microservice-based systems
-* 🤖 Exploring Agentic AI, AI-assisted development and AI-enabled platforms
-* 🧠 Passionate about System Design, DSA and engineering fundamentals
-* 👥 Enjoy mentoring engineers and sharing knowledge
-* 🎥 Creating software engineering content through CodeDecks
-* 🏏 Outside technology, I enjoy playing cricket
+- 🏗️ Designing high-scale, highly available distributed systems
+- ☕ Java · Spring Boot · Kafka · Event-driven architectures
+- ☁️ Cloud-native microservices on AWS with Docker & CI/CD
+- 🤖 Exploring Agentic AI and AI-assisted development
+- 🏏 Outside tech, I enjoy playing cricket
 
 ⸻
 
-🎯 Engineering Focus
-
-Distributed Systems
-Scalability · High Availability · Fault Tolerance · Event-Driven Architecture · Kafka
-
-Backend Engineering
-Java · Spring Boot · Microservices · REST APIs · Async Processing · Caching
-
-Cloud & Infrastructure
-AWS · Docker · CI/CD · Observability · Production Reliability
-
-AI & Developer Platforms
-Agentic AI · AI-assisted Development · Developer Productivity · AI-enabled Systems
-
-⸻
-
-🛠️ Technology
-
-Languages
+### 🛠️ Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -67,16 +41,12 @@ Languages
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
-Backend & Distributed Systems
-
 <p>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
   <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge"/>
 </p>
-
-Cloud & Engineering
 
 <p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
@@ -86,75 +56,27 @@ Cloud & Engineering
 
 ⸻
 
-🚀 Open Source
+### 🚀 CodeDecks — LeetCode Solutions
 
-📚 CodeDecks — LeetCode Solutions
+A community-driven repo for LeetCode solutions across multiple languages — helping developers learn algorithms and prepare for coding interviews. Contributions welcome!
 
-A community-driven repository for LeetCode solutions across multiple programming languages, created to help developers learn algorithms and prepare for coding interviews.
-
-⭐ LeetCode Solutions
-
-The project focuses on:
-
-* Data Structures & Algorithms
-* Coding interview preparation
-* Multiple programming languages
-* Practical problem-solving approaches
-* Community contributions
-
-Contributions are welcome!
+> **Featured on CodeDecks:** LeetCode Solutions · HackerRank WarmUp · Swiggy Interview Experience · Does CGPA Matter? · Big-O / Big-Omega
+>
+> 👉 [Explore all CodeDecks videos](https://www.youtube.com/c/codedecks)
 
 ⸻
 
-🧠 Currently Exploring
+### 🧠 Currently Exploring
 
-Agentic AI
+**Agentic AI** — AI agents collaborating with software systems, developer tools & APIs
 
-Exploring how AI agents can collaborate with software systems, developer tools, APIs and enterprise platforms.
+**Distributed Systems** — Scalability · Fault tolerance · Distributed consistency · Event-driven architecture · Real-time systems
 
-Distributed Systems
-
-Going deeper into:
-
-* Scalability
-* High availability
-* Distributed consistency
-* Fault tolerance
-* Event-driven architectures
-* Real-time systems
-
-System Design
-
-Designing and documenting systems such as:
-
-* URL Shortener
-* Ride Sharing
-* Food Delivery
-* Billing & Invoicing
-* Inventory Management
-* Real-time Location Systems
-* Notification Systems
-* Distributed Configuration
+**System Design** — Documenting systems like URL Shortener, Ride Sharing, Food Delivery, Billing & Invoicing, Notification Systems, and more
 
 ⸻
 
-📺 CodeDecks
-
-I started CodeDecks to help developers learn programming, algorithms and prepare for technical interviews.
-
-🎬 Featured Content
-
-* LeetCode Solutions
-* HackerRank WarmUp Solutions
-* Swiggy Interview Experience
-* Does CGPA Matter?
-* Big-O / Big-Omega
-
-👉 Explore all CodeDecks videos
-
-⸻
-
-📊 GitHub
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GouravRusiya30&show_icons=true&hide_border=true&count_private=true" height="165"/>
@@ -163,7 +85,7 @@ I started CodeDecks to help developers learn programming, algorithms and prepare
 
 ⸻
 
-🤝 Let’s Connect
+### 🤝 Let's Connect
 
 <p>
   <a href="https://www.linkedin.com/in/grusiya/">
@@ -177,6 +99,4 @@ I started CodeDecks to help developers learn programming, algorithms and prepare
   </a>
 </p>
 
-⸻
-
-Build scalable systems. Solve meaningful problems. Keep learning. 🚀
+*Build scalable systems. Solve meaningful problems. Keep learning.* 🚀
