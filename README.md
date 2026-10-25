@@ -17,11 +17,11 @@ I build scalable backend systems and distributed architectures — from design t
   <img src="https://komarev.com/ghpvc/?username=GouravRusiya30&style=flat-square&color=brightgreen"/>
 </p>
 
-⸻
+---
 
 <img align="center" alt="CodeDecks" width="1026px" src="https://github.com/GouravRusiya30/GouravRusiya30/blob/master/Assets/codedecks.jpeg" />
 
-⸻
+---
 
 ### 🧑‍💻 About Me
 
@@ -31,7 +31,7 @@ I build scalable backend systems and distributed architectures — from design t
 - 🤖 Exploring Agentic AI and AI-assisted development
 - 🏏 Outside tech, I enjoy playing cricket
 
-⸻
+---
 
 ### 🛠️ Tech Stack
 
@@ -54,7 +54,7 @@ I build scalable backend systems and distributed architectures — from design t
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
 </p>
 
-⸻
+---
 
 ### 🚀 CodeDecks — LeetCode Solutions
 
@@ -64,7 +64,7 @@ A community-driven repo for LeetCode solutions across multiple languages — hel
 >
 > 👉 [Explore all CodeDecks videos](https://www.youtube.com/c/codedecks)
 
-⸻
+---
 
 ### 🧠 Currently Exploring
 
@@ -74,7 +74,7 @@ A community-driven repo for LeetCode solutions across multiple languages — hel
 
 **System Design** — Documenting systems like URL Shortener, Ride Sharing, Food Delivery, Billing & Invoicing, Notification Systems, and more
 
-⸻
+---
 
 ### 📊 GitHub Stats
 
@@ -83,7 +83,7 @@ A community-driven repo for LeetCode solutions across multiple languages — hel
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GouravRusiya30&layout=compact&hide_border=true" height="165"/>
 </p>
 
-⸻
+---
 
 ### 🤝 Let's Connect
 
