@@ -1,6 +1,4 @@
-## Hi, I'm Gourav R 👋
-
-**Software Engineer · Distributed Systems · Backend Engineering · AI**
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?lines=Hi,+I'm+Gourav+R+👋;Software+Engineer;Distributed+Systems;Backend+Engineering;Agentic+AI&center=true&width=500&height=100&font=Fira+Code&size=28&duration=2500&pause=500&color=58A6FF&background=0D1117&center=true&vCenter=true" alt="Typing SVG" /></a>
 
 I build scalable backend systems and distributed architectures — from design to production. Creator of [CodeDecks](https://www.youtube.com/c/codedecks), where I share programming, algorithms, and interview prep content.
 
